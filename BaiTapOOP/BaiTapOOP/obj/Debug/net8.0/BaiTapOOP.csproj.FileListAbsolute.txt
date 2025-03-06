@@ -1,0 +1,15 @@
+E:\224LTC03\BaiTapOOP\BaiTapOOP\bin\Debug\net8.0\BaiTapOOP.exe
+E:\224LTC03\BaiTapOOP\BaiTapOOP\bin\Debug\net8.0\BaiTapOOP.deps.json
+E:\224LTC03\BaiTapOOP\BaiTapOOP\bin\Debug\net8.0\BaiTapOOP.runtimeconfig.json
+E:\224LTC03\BaiTapOOP\BaiTapOOP\bin\Debug\net8.0\BaiTapOOP.dll
+E:\224LTC03\BaiTapOOP\BaiTapOOP\bin\Debug\net8.0\BaiTapOOP.pdb
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.AssemblyInfoInputs.cache
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.AssemblyInfo.cs
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.csproj.CoreCompileInputs.cache
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.sourcelink.json
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.dll
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\refint\BaiTapOOP.dll
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.pdb
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\BaiTapOOP.genruntimeconfig.cache
+E:\224LTC03\BaiTapOOP\BaiTapOOP\obj\Debug\net8.0\ref\BaiTapOOP.dll
